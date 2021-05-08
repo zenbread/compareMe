@@ -1,0 +1,326 @@
+modern_fortran.pdf
+grokking_machine_learning_meap.pdf
+quantum_computing_in_action.pdf
+algorithms_of_the_intelligent_web2e.pdf
+math_and_architectures_of_deep_learning_meap.pdf
+grokking_bitcoin.pdf
+succeeding_with_ai.pdf
+math_for_programmers.pdf
+algorithms_and_datastructures_in_action_meap.pdf
+practical_recommender_systems.pdf
+grokking_algorithms.pdf
+machine_learning_in_action.pdf
+KALI_LINUX_COOKBOOK_SECOND_EDITION.pdf
+web application hackers handbook finding and exploiting security flaws.pdf
+unauthorised access - physical penetration testing for it security teams.pdf
+threat modeling designing for security.pdf
+the ida pro book 2nd edition.pdf
+the car hackers handbook.pdf
+social engineering the art of human hacking.pdf
+smart girls guide to privacy.pdf
+shellcoders handbook discovering and exploiting security holes.pdf
+security engineering a guide to building dependable distributed systems.pdf
+secrets and lies digital security in a networked world.pdf
+practice of network security monitoring.pdf
+practical packet analysis.pdf
+practical forensic imaging.pdf
+practical reverse engineering - x86/x64 arm windows kernel reversing tools and obfuscation.pdf
+poc or gtfo bible.pdf
+penetration testing.pdf
+metasploit - a penetration testers guide.pdf
+malware analysts cookbook and dvd tools and techniques for fighting malicious code.pdf
+ios application security.pdf
+hacking art of exploitation - 2nd edition.pdf
+cryptography engineering design principles and practical applications.pdf
+Windows Forensic Analysis 2nd Ed 2009.pdf
+ceh v9 certified ethical hacker study guide.pdf
+book of pf - a no non-sense guide to the open bsd firewall.pdf
+art of memory forensics detecting malware and threats in windows linux and mac memory.pdf
+art of deception controlling the human element of security.pdf
+applied cryptography protocols algorithms and source code in c.pdf
+android security internals.pdf
+absolute open bsd.pdf
+Microsoft Windows Internals 5th Edtion 2009.pdf
+gamehacking.pdf
+BJ's Guide to IPC.pdf
+everythingguidetopre-algebra.pdf
+everythingpsychology.pdf
+everydayamazing.pdf
+astronomy101.pdf
+physicsofstarwars.pdf
+anatomy101.pdf
+100thingstoseeinthenightsky.pdf
+whydidntithinkofthat.pdf
+everythingastronomybook.pdf
+weather101.pdf
+scienceofmarvel.pdf
+ultimaterobloxbookanunofficialguide.pdf
+advancedrobloxcodingbookanunofficialguide.pdf
+everythingstemhandbook.pdf
+100thingstoseeinthesouthernnightsky.pdf
+everythingeverydaymathbook.pdf
+dnaisyou.pdf
+psych101.pdf
+everythingguidetoalgebra.pdf
+everythingkidsscratchcodingbook.pdf
+architecture101.pdf
+dadsbookofawesomescienceexperiments.pdf
+whatsyourstem.pdf
+bizarreworld.pdf
+genetics101.pdf
+statistics101.pdf
+factsfromspace.pdf
+starwarsvsstartrek.pdf
+everythingguidetoanatomyandphysiology.pdf
+mathgeek.pdf
+inthecompanyoftrees.pdf
+psychexperiments.pdf
+everythingguidetothehumanbrain.pdf
+natureistheworst.pdf
+simpleactstosaveourplanet.pdf
+1001factsthatwillscaretheshittoutofyou.pdf
+testdrivendevelopmentwithpython.pdf
+technologystrategypatterns.pdf
+regularexpressionscookbook.pdf
+realworldsoftwaredevelopment.pdf
+programmingquantumcomputing.pdf
+learningcoredns.pdf
+introductiontomachinelearningwithpython.pdf
+headfirstdesignpatterns_ebook.pdf
+headfirstagile_ebook.pdf
+cloudnative.pdf
+becomingabetterprogrammer.pdf
+artofreadablecode.pdf
+apprenticeshippatterns.pdf
+algorithmsinanutshell.pdf
+97thingseveryprogrammershouldknow.pdf
+learningmalwareanalysis_ebook.pdf
+handsonredteamtactics.pdf
+masteringlinuxsecurityandhardening.pdf
+webpenetrationtestingwithkalilinux_ebook.pdf
+becomingthehacker.pdf
+practicalmobileforensics_ebook.pdf
+cybersecurity_attackanddefensestrategies_ebook.pdf
+Liam Echlin resources_for_programmers.pdf
+Operating Systems - Three Easy Pieces v1.00.pdf
+PERL_6_DEEP_DIVE.pdf
+MASTERING_ACTIVE_DIRECTORY.pdf
+MYSQL_DATABASE_PRACTICAL_DESIGN_TI.pdf
+learningpythonwithraspberrypi.pdf
+raspberrypiprojects_robinson.pdf
+beaglebonefordummies.pdf
+exploringarduino.pdf
+adventuresinraspberrypi.pdf
+raspberrypiuserguide.pdf
+completeelectronicsselfteachingguidewithprojects.pdf
+exploringbeaglebone.pdf
+exploringraspberrypi.pdf
+electronicsfordummies.pdf
+raspberrypiprojectsfordummies.pdf
+arduinofordummies.pdf
+arduinosketches.pdf
+arduinoprojectsfordummies.pdf
+arduino project handbook.pdf
+unrealengine4_aiprogrammingessentials.pdf
+BUILDING_MACHINE_LEARNING_SYSTEMS_WITH_PYTHON.pdf
+ADVANCED_MACHINE_LEARNING_WITH_PYTHON.pdf
+What You Need to Know about Machine Learning.pdf
+machinelearningalgorithms.pdf
+machinelearningforopencv.pdf
+machinelearningwithgo.pdf
+buildingmachinelearningsystemswithpython.pdf
+deeplearningwithkeras.pdf
+deeplearningforcomputervision.pdf
+machinelearningfordevelopers.pdf
+statisticsformachinelearning.pdf
+realm of racket - learn to program.pdf
+practical_data_science_with_r2e.pdf
+thebookofr.pdf
+theartofrprogramming.pdf
+functional thinking.pdf
+Distributed Computing.pdf
+becoming functional.pdf
+programmingrust.pdf
+programmingscala.pdf
+learningscala.pdf
+testinginscala.pdf
+scalacookbook.pdf
+thinklikeaprogrammer.pdf
+theartofdebugging.pdf
+UsingContheUNIXSystem.pdf
+grayhatcsharp.pdf
+C Programming Language - 2nd Edition.pdf
+c++-today.pdf
+data_wrangling_with_javascript.pdf
+neuralnetworkprogrammingwithjava.pdf
+functionaljavascript.pdf
+understandingecmascript6.pdf
+datavisualizationwithjavascript.pdf
+java8lambdas.pdf
+restfuljavawithjaxrs2.pdf
+minecraftmoddingwithforge.pdf
+javanetworkprogramming.pdf
+javacookbook.pdf
+javawebservices_upandrunning.pdf
+javainanutshell.pdf
+thinkjava.pdf
+javagenericsandcollections.pdf
+javapocketguide.pdf
+javamessageservice.pdf
+javathreads.pdf
+learningjava.pdf
+teachyourkidstocode_1490913058.pdf
+theartofassemblylanguage.pdf
+rubyunderamicroscope.pdf
+introducingelixir.pdf
+introducingerlang.pdf
+learnyousomeerlangforgreatgood.pdf
+get_programming_with_haskell.pdf
+parallelandconcurrentprogramminginhaskell.pdf
+realworldhaskell.pdf
+learnyouahaskellforgreatgood.pdf
+landoflisp_learntoprgraminlisp.pdf
+codecraft.pdf
+clojureprogramming.pdf
+livingclojure.pdf
+clojurecookbook.pdf
+clojureforthebraveandtrue.pdf
+Metasploit Penetration Testing Cookbook.pdf
+Windows Internals Part 2 (6th Edition).pdf
+Windows Internals Part 1 (6th Edition).pdf
+Buffer Overflow Attacks - Detect, Exploit, Prevent (2005).pdf
+tcpip.pdf
+scapy.pdf
+netcat_cheat_sheet_v1.pdf
+tcpdump.pdf
+ScapyCheatSheet_v0.2.pdf
+Kali Linux- Assuring Security by Penetration Testing - Allen, Lee.pdf
+Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Beggs-Robert.pdf
+RTFM.pdf
+junkyardjamband.pdf
+inventyourowncomputergameswithpython.pdf
+electronicsforkids.pdf
+beautifulminecraft.pdf
+arduinoprojecthandbook.pdf
+tinylegowonders.pdf
+theofficialscratchjrbook.pdf
+thelegoanimationbook.pdf
+thecsdetective.pdf
+theartoflegoscalemodeling.pdf
+teachyourkidstocode_1490913058.pdf
+scratchprogrammingplayground.pdf
+medievallego.pdf
+MangaGuidetoElectricity1421975366.pdf
+LEGONeighborhood1421975366.pdf
+LaurenIpsum1421975366.pdf
+unrealengine4_aiprogrammingessentials.pdf
+practical game ai programming.pdf
+pythonpygameandraspberrypigamedevelopment.pdf
+learnunityforandroidgamedevelopment.pdf
+polishedgamedevelopment.pdf
+makea2drpginaweekend.pdf
+onlinegamepioneersatwork.pdf
+prohtml5games.pdf
+practicalgamemaker_studio.pdf
+makinggames.pdf
+blitzmaxforabsolutebeginners.pdf
+programarcadegames.pdf
+beginningandroidgames.pdf
+introducingjavascriptgamedevelopment.pdf
+beginningrpgmakermv.pdf
+gamedevelopmentwithconstruct2.pdf
+leangamedevelopment.pdf
+unityvirtualrealityprojects.pdf
+unity5xgamedevelopmentblueprints.pdf
+unrealenginegamedevelopmentcookbook.pdf
+unrealengine4xbyexample.pdf
+unrealengine4scriptingwithcpluspluscookbook.pdf
+unrealengine4gamedevelopmentessentials.pdf
+blueprintsvisualscriptingforunrealengine.pdf
+3dgamedesignwithunrealengine4andblender.pdf
+unity5xanimationcookbook.pdf
+learningunrealenginegamedevelopment.pdf
+learningcsharpbydevelopinggameswithunity5x.pdf
+gettingstartedwithunity5.pdf
+buildinganrpgwithunreal4x.pdf
+unity5xgamedevelopmentblueprints.pdf
+unity5xbyexample.pdf
+unity5xgameaiprogrammingcookbook.pdf
+MASTERING_EMBEDDED_LINUX_PROGRAMMING_SECOND_EDITION.pdf
+thelinuxcommandline.pdf
+Snort_rule_infographic.pdf
+GREP-Quick-Reference.pdf
+Command Line Kung Fu Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners by Jason Cannon.pdf
+Wicked Cool Shell Scripts, 2nd Edition.pdf
+bashcookbook.pdf
+unixpowertools.pdf
+unixinanutshell_4thedition.pdf
+unix_bookbundle_freetier_updated_1479930452.pdf
+tcp_ip_networkadministration_3rdedition.pdf
+sedandawk.pdf
+networktroubleshootingtools.pdf
+linuxpocketguide_3rdedition.pdf
+lexandyacc.pdf
+learningunixforosx_2ndedition.pdf
+learningtheviandvimeditors_7thedition.pdf
+learningthebashshell_3rdedition.pdf
+learninggnuemacs_3rdedition.pdf
+essentialsystemadministration_3rdedition.pdf
+dnsandbind_5thedition.pdf
+classicshellscripting.pdf
+bashpocketreference_2ndedition.pdf
+computaionalComplexity.pdf
+Algorithms.pdf
+DiscreetMath.pdf
+Python - Beginning Python From Novice to Professional -nelly-.pdf
+data_science_with_python_and_dask.pdf
+python201.pdf
+MASTERING_SOCIAL_MEDIA_MINING_WITH_PYTHON.pdf
+SCIENTIFIC_COMPUTING_WITH_PYTHON_3.pdf
+PYTHON_FOR_FINANCE_SECOND_EDITION.pdf
+OPENCV_3_COMPUTER_VISION_WITH_PYTHON_UP.pdf
+masteringpythonnetworking.pdf
+pythonmachinelearning.pdf
+pythonmicroservicesdevelopment.pdf
+softwarearchitecturewithpython.pdf
+modernpythoncookbook.pdf
+pythonhighperformance.pdf
+pythonguiprogrammingcookbook.pdf
+pythondataanalysiscookbook.pdf
+masteringpython.pdf
+learningroboticsusingpython.pdf
+webdevelopmentwithdjangocookbook.pdf
+expertpythonprogramming.pdf
+pythondatascienceessentials.pdf
+pythonprogrammingwithraspberrypi.pdf
+learningconcurrencyinpython.pdf
+pythondatastructuresandalgorithms.pdf
+buildingrestfulpythonwebservices.pdf
+artificialintelligencewithpython.pdf
+foundations_of_python_network_programming_2nd_edition.pdf
+Violent_Python_A_Cookbook_for_Hackers_Forensic_Ana.pdf
+teachyourkidstocode_1490913058.pdf
+pythonforkids_1490905401.pdf
+pythonplayground_geekyprojectsforthecuriousprogrammer.pdf
+inventyourowncomputergameswithpython.pdf
+pythoncrashcourse.pdf
+grayhatpython.pdf
+doingmathwithpython.pdf
+automatetheboringstuffwithpython_new.pdf
+Black Hat Python.pdf
+python-in-education.pdf
+Python For Everyone.pdf
+how-to-make-mistakes-in-python.pdf
+hadoop-with-python.pdf
+functional-programming-python.pdf
+from-future-import-python.pdf
+a-whirlwind-tour-of-python.pdf
+20-python-libraries-you-arent-using-but-should.pdf
+MASTERING_WINDOWS_POWERSHELL_SCRIPTING_SECOND_EDITION.pdf
+windows_powershell_unleashed.pdf
+windows_powershell_cookbook_3rd_edition.pdf
+windows_powershell_3.0_step_by_step.pdf
+powershell_in_depth.pdf
+The Pragmatic Programmer, From Journeyman To Master.pdf
+Code Complete - 2nd Edition.pdf
+Clean Code.pdf
